@@ -1,0 +1,14 @@
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\bin\Debug\net8.0\Eleven.Data.deps.json
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\bin\Debug\net8.0\Eleven.Data.runtimeconfig.json
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\bin\Debug\net8.0\Eleven.Data.dll
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\bin\Debug\net8.0\Eleven.Data.pdb
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.csproj.AssemblyReference.cache
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.AssemblyInfoInputs.cache
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.AssemblyInfo.cs
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.csproj.CoreCompileInputs.cache
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.dll
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\refint\Eleven.Data.dll
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.pdb
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\Eleven.Data.genruntimeconfig.cache
+C:\hector\otro\ElevenNet\Eleven\Eleven.Data\obj\Debug\net8.0\ref\Eleven.Data.dll

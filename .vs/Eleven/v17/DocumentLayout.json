@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|c:\\hector\\otro\\elevennet\\eleven\\sapbo.data\\repositorio\\interfaz\\ibobusinesspartnersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|solutionrelative:sapbo.data\\repositorio\\interfaz\\ibobusinesspartnersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\businesspartnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\businesspartnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\repositorio\\implementacion\\businesspartnersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\repositorio\\implementacion\\businesspartnersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|c:\\hector\\otro\\elevennet\\eleven\\sapbo.data\\repositorio\\implementacion\\bodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|solutionrelative:sapbo.data\\repositorio\\implementacion\\bodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\repositorio\\interfaz\\ibusinesspartnersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\repositorio\\interfaz\\ibusinesspartnersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\repositorio\\implementacion\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\repositorio\\implementacion\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\mappingconfigurations\\sapmapping\\batchresponseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\mappingconfigurations\\sapmapping\\batchresponseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\mappingconfigurations\\sapmapping\\bpaddressprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\mappingconfigurations\\sapmapping\\bpaddressprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|c:\\hector\\otro\\elevennet\\eleven\\sapbo.data\\repositorio\\implementacion\\bobusinesspartnersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|solutionrelative:sapbo.data\\repositorio\\implementacion\\bobusinesspartnersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CA424D-EF57-4F76-9AFC-429493E0005A}|Utils.Helper\\Utils.Helper.csproj|c:\\hector\\otro\\elevennet\\eleven\\utils.helper\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CA424D-EF57-4F76-9AFC-429493E0005A}|Utils.Helper\\Utils.Helper.csproj|solutionrelative:utils.helper\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CA424D-EF57-4F76-9AFC-429493E0005A}|Utils.Helper\\Utils.Helper.csproj|c:\\hector\\otro\\elevennet\\eleven\\utils.helper\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CA424D-EF57-4F76-9AFC-429493E0005A}|Utils.Helper\\Utils.Helper.csproj|solutionrelative:utils.helper\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|c:\\hector\\otro\\elevennet\\eleven\\sapbo.data\\entidad\\businesspartners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE539E14-3B74-4F50-B719-075909A31952}|SAPBo.Data\\SAPBo.Data.csproj|solutionrelative:sapbo.data\\entidad\\businesspartners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\repositorio\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\repositorio\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.service\\repositorio\\implementacion\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3DF0E-D227-4BF4-B994-FEB1EF10B3D1}|Eleven.Service\\Eleven.Service.csproj|solutionrelative:eleven.service\\repositorio\\implementacion\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\eleven.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\eleven.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|c:\\hector\\otro\\elevennet\\eleven\\eleven.webapi\\eleven.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{144A805D-049B-426A-9CB9-90F0398371DE}|Eleven.WebApi\\Eleven.WebApi.csproj|solutionrelative:eleven.webapi\\eleven.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoDocumentRepository.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Implementacion\\BoDocumentRepository.cs",
+              "RelativeDocumentMoniker": "SAPBo.Data\\Repositorio\\Implementacion\\BoDocumentRepository.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Implementacion\\BoDocumentRepository.cs",
+              "RelativeToolTip": "SAPBo.Data\\Repositorio\\Implementacion\\BoDocumentRepository.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAC0BAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:11:31.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoBusinessPartnersRepository.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Implementacion\\BoBusinessPartnersRepository.cs",
+              "RelativeDocumentMoniker": "SAPBo.Data\\Repositorio\\Implementacion\\BoBusinessPartnersRepository.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Implementacion\\BoBusinessPartnersRepository.cs",
+              "RelativeToolTip": "SAPBo.Data\\Repositorio\\Implementacion\\BoBusinessPartnersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:04:03.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBoBusinessPartnersRepository.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Interfaz\\IBoBusinessPartnersRepository.cs",
+              "RelativeDocumentMoniker": "SAPBo.Data\\Repositorio\\Interfaz\\IBoBusinessPartnersRepository.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Repositorio\\Interfaz\\IBoBusinessPartnersRepository.cs",
+              "RelativeToolTip": "SAPBo.Data\\Repositorio\\Interfaz\\IBoBusinessPartnersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:53:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Functions.cs",
+              "RelativeDocumentMoniker": "Utils.Helper\\Functions.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Functions.cs",
+              "RelativeToolTip": "Utils.Helper\\Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:04:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonUtils.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\JsonUtils.cs",
+              "RelativeDocumentMoniker": "Utils.Helper\\JsonUtils.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\JsonUtils.cs",
+              "RelativeToolTip": "Utils.Helper\\JsonUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:56:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\Repositorio\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "Eleven.Service\\Repositorio\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:29:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\Repositorio\\Implementacion\\AuthenticateService.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\AuthenticateService.cs",
+              "RelativeToolTip": "Eleven.Service\\Repositorio\\Implementacion\\AuthenticateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:00:29.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:55:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoDocumentoController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\TipoDocumentoController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\TipoDocumentoController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\TipoDocumentoController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\TipoDocumentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:55:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:55:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:53:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Eleven.WebApi",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Eleven.WebApi.csproj",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Eleven.WebApi.csproj",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Eleven.WebApi.csproj",
+              "RelativeToolTip": "Eleven.WebApi\\Eleven.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T12:49:36.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessPartnersController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\BusinessPartnersController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\BusinessPartnersController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\BusinessPartnersController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\BusinessPartnersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Helper\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Helper\\SessionExtensions.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Helper\\SessionExtensions.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Helper\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:49:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Eleven.WebApi.http",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Eleven.WebApi.http",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Eleven.WebApi.http",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Eleven.WebApi.http",
+              "RelativeToolTip": "Eleven.WebApi\\Eleven.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-13T12:39:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessPartners.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Entidad\\BusinessPartners.cs",
+              "RelativeDocumentMoniker": "SAPBo.Data\\Entidad\\BusinessPartners.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\Entidad\\BusinessPartners.cs",
+              "RelativeToolTip": "SAPBo.Data\\Entidad\\BusinessPartners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:00:38.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\Program.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\Program.cs",
+              "RelativeToolTip": "Eleven.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:30:16.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Eleven.WebApi\\appsettings.json",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.WebApi\\appsettings.json",
+              "RelativeToolTip": "Eleven.WebApi\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T21:30:02.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 43,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusinessPartnersService.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Interfaz\\IBusinessPartnersService.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\Repositorio\\Interfaz\\IBusinessPartnersService.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Interfaz\\IBusinessPartnersService.cs",
+              "RelativeToolTip": "Eleven.Service\\Repositorio\\Interfaz\\IBusinessPartnersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:36:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BatchResponseProfile.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\MappingConfigurations\\SAPMapping\\BatchResponseProfile.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\MappingConfigurations\\SAPMapping\\BatchResponseProfile.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\MappingConfigurations\\SAPMapping\\BatchResponseProfile.cs",
+              "RelativeToolTip": "Eleven.Service\\MappingConfigurations\\SAPMapping\\BatchResponseProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:31:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BPAddressProfile.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\MappingConfigurations\\SAPMapping\\BPAddressProfile.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\MappingConfigurations\\SAPMapping\\BPAddressProfile.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\MappingConfigurations\\SAPMapping\\BPAddressProfile.cs",
+              "RelativeToolTip": "Eleven.Service\\MappingConfigurations\\SAPMapping\\BPAddressProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:31:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\Repositorio\\Implementacion\\DocumentService.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\DocumentService.cs",
+              "RelativeToolTip": "Eleven.Service\\Repositorio\\Implementacion\\DocumentService.cs",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAAAGECAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:02:43.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessPartnersService.cs",
+              "DocumentMoniker": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\BusinessPartnersService.cs",
+              "RelativeDocumentMoniker": "Eleven.Service\\Repositorio\\Implementacion\\BusinessPartnersService.cs",
+              "ToolTip": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Repositorio\\Implementacion\\BusinessPartnersService.cs",
+              "RelativeToolTip": "Eleven.Service\\Repositorio\\Implementacion\\BusinessPartnersService.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:49:19.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

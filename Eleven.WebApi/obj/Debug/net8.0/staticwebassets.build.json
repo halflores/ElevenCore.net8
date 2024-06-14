@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ni+KmKzSZtBiqZMVvK7eUQ5hu90217FMz1ZTazI2fGM=",
+  "Source": "Eleven.WebApi",
+  "BasePath": "_content/Eleven.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

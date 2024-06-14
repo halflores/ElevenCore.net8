@@ -1,0 +1,17 @@
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\SAPBo.B1SLayer.deps.json
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\SAPBo.B1SLayer.dll
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\SAPBo.B1SLayer.pdb
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\Sap.Data.Hana.v4.5.dll
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\Sap.Data.Hana.v4.5.pdb
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\Sap.Data.Hana.v4.5.xml
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\bin\Debug\net8.0\Sap.Data.Hana.v4.5.dll.config
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.csproj.AssemblyReference.cache
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.AssemblyInfoInputs.cache
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.AssemblyInfo.cs
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.csproj.CoreCompileInputs.cache
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1.35539A6C.Up2Date
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.dll
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\refint\SAPBo.B1SLayer.dll
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\SAPBo.B1SLayer.pdb
+C:\hector\otro\ElevenNet\Eleven\SAPBo.B1SLayer\obj\Debug\net8.0\ref\SAPBo.B1SLayer.dll

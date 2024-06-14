@@ -1,0 +1,6 @@
+@Eleven.WebApi_HostAddress = http://localhost:5040
+
+GET {{Eleven.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,475 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Eleven.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\Eleven.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\Eleven.Data.csproj",
+        "projectName": "Eleven.Data",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\Eleven.Data.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Eleven.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Eleven.Service.csproj",
+        "projectName": "Eleven.Service",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\Eleven.Service.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\Eleven.Data.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Eleven.Data\\Eleven.Data.csproj"
+              },
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj"
+              },
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\SAPBo.Data.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\SAPBo.Data.csproj"
+              },
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj",
+        "projectName": "SAPBo.B1HanaQuery",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\SAPBo.B1SLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\SAPBo.B1SLayer.csproj",
+        "projectName": "SAPBo.B1SLayer",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\SAPBo.B1SLayer.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.6, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\SAPBo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\SAPBo.Data.csproj",
+        "projectName": "SAPBo.Data",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\SAPBo.Data.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1HanaQuery\\SAPBo.B1HanaQuery.csproj"
+              },
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\SAPBo.B1SLayer.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\SAPBo.B1SLayer\\SAPBo.B1SLayer.csproj"
+              },
+              "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj": {
+                "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj",
+        "projectName": "Utils.Helper",
+        "projectPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\Utils.Helper.csproj",
+        "packagesPath": "C:\\Users\\Consultor\\.nuget\\packages\\",
+        "outputPath": "C:\\hector\\otro\\ElevenNet\\Eleven\\Utils.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

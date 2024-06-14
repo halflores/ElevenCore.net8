@@ -1,0 +1,12 @@
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\bin\Debug\net8.0\Utils.Helper.deps.json
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\bin\Debug\net8.0\Utils.Helper.dll
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\bin\Debug\net8.0\Utils.Helper.pdb
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.AssemblyInfoInputs.cache
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.AssemblyInfo.cs
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.csproj.CoreCompileInputs.cache
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.dll
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\refint\Utils.Helper.dll
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.pdb
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\ref\Utils.Helper.dll
+C:\hector\otro\ElevenNet\Eleven\Utils.Helper\obj\Debug\net8.0\Utils.Helper.csproj.AssemblyReference.cache

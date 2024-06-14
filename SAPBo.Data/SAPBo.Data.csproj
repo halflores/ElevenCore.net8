@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositorio\Implementacion\BoCategoriaRepository.cs" />
+    <Compile Remove="Repositorio\Interfaz\IBoCategoriaRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SAPBo.B1HanaQuery\SAPBo.B1HanaQuery.csproj" />
+    <ProjectReference Include="..\SAPBo.B1SLayer\SAPBo.B1SLayer.csproj" />
+    <ProjectReference Include="..\Utils.Helper\Utils.Helper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Sap.Data.Hana.v4.5">
+      <HintPath>..\..\..\..\..\Program Files\SAP\hdbclient\ado.net\v4.5\Sap.Data.Hana.v4.5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
